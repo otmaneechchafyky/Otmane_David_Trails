@@ -72,7 +72,10 @@ section form button {
     border-radius: 2px;
     border: 0;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> bddf05ab70a3c456ff49d45815e0f43a89d85c6d
 .container {
     display: flex;
     flex-direction: column;
@@ -144,4 +147,8 @@ i {
     font-size: 1.7em;
     text-decoration: none;
     color: black;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> bddf05ab70a3c456ff49d45815e0f43a89d85c6d
