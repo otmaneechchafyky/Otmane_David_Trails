@@ -162,7 +162,7 @@ If you like this project just give it a star ⭐️.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank otmane for allowing me to use his admission trials.
+I would like to thank Otmane David for allowing me to use his admission trials.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
